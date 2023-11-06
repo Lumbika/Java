@@ -21,7 +21,7 @@
        else if(balance_amount>20000)
            System.out.println("As your is balance is:"+balance_amount+"So You are eligible to apply for the LIC.");
         else
-           System.out.println("You are not eligible to apply for loan due to insufficient balance.");
+           System.out.println("You are not eligible to apply for loan due to insufficient balance.");//hiii
 
 
       
